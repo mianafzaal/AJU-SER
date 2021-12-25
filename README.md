@@ -5,9 +5,9 @@
 
 
 <div align="center">
-<img src="Aju.jpg" alt="aju" width="200" />
+<img src="mian.jpg" alt="aju" width="200" />
 
-## 🚀AJU SER🚀 
+## 🚀MiAN859🚀 
 
 </div>
 
@@ -95,16 +95,14 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917994873071"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+923430436852"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
+ <https://chat.whatsapp.com/C6SavNAAt5AHkmwx9HoWXq"/>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA)
-
+* [`My Youtube Channel`No
 ### ⚠ Warning ⚠
 
 ```

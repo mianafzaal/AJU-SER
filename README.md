@@ -7,7 +7,7 @@
 <div align="center">
 <img src="mian.jpg" alt="aju" width="200" />
 
-## 🚀MiAN852🚀 
+## 🚀Mian🚀 
 
 </div>
 
@@ -15,7 +15,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/aju001"><img title="Author" src="https://img.shields.io/badge/Author-Aju-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917994873071?text=Hello%20Aju%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Aju-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/aju001"><img title="Author" src="https://img.shields.io/badge/Author-Aju-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+923430436852?text=Hello%20Aju%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Aju-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA"><img title="Author" src="https://img.shields.io/badge/Youtube-AJUSER-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
@@ -26,15 +26,15 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/A-J-U-QR?v=1)
 
-<a href="https://github.com/aju001"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
+<a href="https://github.com/mianafzaal"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
 
 ## 🚀
 
-<a href="https://github.com/aju001"><img src="https://i.ibb.co/Ms57pyC/2.jpg" alt="2" width="600"></a>
+<a href="https://github.com/mianafzaal"><img src="https://i.ibb.co/Ms57pyC/2.jpg" alt="2" width="600"></a>
 
 ## ERROR FIX IT YOURSELF
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mianafzaal/AJU-SER) 
 
 
 # Requirements
@@ -55,12 +55,12 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/aju001/AJU-SER/blob/master/session.json#L1)
+[`Click Here`](https://github.com/mianafzaal/AJU-SER/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/mianafzaal/AJU-SER/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/mianafzaal/AJU-SER/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies

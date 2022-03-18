@@ -7,7 +7,7 @@
 <div align="center">
 <img src="mian.jpg" alt="aju" width="200" />
 
-## 🚀Mian🚀 
+## 🚀𝐌𝐈𝐀𝐍🚀 
 
 </div>
 
@@ -17,7 +17,7 @@
 <p align="center">
  <a href="https://github.com/aju001"><img title="Author" src="https://img.shields.io/badge/Author-Aju-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+923430436852?text=Hello%20Aju%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Aju-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA"><img title="Author" src="https://img.shields.io/badge/Youtube-AJUSER-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https;lol😁
 </p>
 
 
@@ -65,7 +65,7 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🚀 git clone https://github.com/aju001/AJU-SER.git
+🚀 git clone https://github.com/mianafzaal/AJU-SER.git
 🚀 cd AJU-SER
 🚀 npm start
 ```
@@ -81,7 +81,7 @@ heroku/nodejs
 🚀 pkg install ffmpeg -y 
 🚀 pkg install wget
 🚀 pkg install imagemagick -y
-🚀 git clone https://github.com/aju001/AJU-SER
+🚀 git clone https://github.com/mianafzaal/AJU-SER
 🚀 cd AJU-SER
 🚀 ls
 🚀 rm -rf session.json
